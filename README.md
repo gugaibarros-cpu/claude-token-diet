@@ -1,4 +1,4 @@
-# Economia de tokens no Claude Code
+# claude-token-diet: economia de tokens no Claude Code
 
 Diagnóstico de uso real (30 dias, 1.892 transcripts locais), o que foi mudado por causa dele e dois hooks que nasceram de
 falhas observadas. Tudo em português. Nada aqui é conselho genérico: cada número saiu dos logs de uma máquina só, então
